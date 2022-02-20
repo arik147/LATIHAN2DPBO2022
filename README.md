@@ -22,3 +22,9 @@ Kelas Hardware merupakan Parent dari kelas Memory
     - frequency
     - memorySize
     - supportsCuda
+
+## Bahasa yang digunakan
+- C++
+- Java
+- PHP
+- Python
